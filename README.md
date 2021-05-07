@@ -1,1 +1,1 @@
-# ClientManager.CORE
+# ClientManager
