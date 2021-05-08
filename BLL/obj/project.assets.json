@@ -602,27 +602,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Quentin.COMPRSA\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_repo\\ClientManager\\BLL\\BLL.csproj",
+      "projectUniqueName": "C:\\_systems\\ClientManager\\ClientManager.CORE\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "D:\\_repo\\ClientManager\\BLL\\BLL.csproj",
-      "packagesPath": "C:\\Users\\Quentin.COMPRSA\\.nuget\\packages\\",
-      "outputPath": "D:\\_repo\\ClientManager\\BLL\\obj\\",
+      "projectPath": "C:\\_systems\\ClientManager\\ClientManager.CORE\\BLL\\BLL.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\_systems\\ClientManager\\ClientManager.CORE\\BLL\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Quentin.COMPRSA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -634,14 +627,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\_repo\\ClientManager\\Common\\Common.Shared.csproj": {
-              "projectPath": "D:\\_repo\\ClientManager\\Common\\Common.Shared.csproj"
+            "C:\\_systems\\ClientManager\\ClientManager.CORE\\Common\\Common.Shared.csproj": {
+              "projectPath": "C:\\_systems\\ClientManager\\ClientManager.CORE\\Common\\Common.Shared.csproj"
             },
-            "D:\\_repo\\ClientManager\\DAL\\DAL.csproj": {
-              "projectPath": "D:\\_repo\\ClientManager\\DAL\\DAL.csproj"
+            "C:\\_systems\\ClientManager\\ClientManager.CORE\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\_systems\\ClientManager\\ClientManager.CORE\\DAL\\DAL.csproj"
             },
-            "D:\\_repo\\ClientManager\\Repository\\Repository.csproj": {
-              "projectPath": "D:\\_repo\\ClientManager\\Repository\\Repository.csproj"
+            "C:\\_systems\\ClientManager\\ClientManager.CORE\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\_systems\\ClientManager\\ClientManager.CORE\\Repository\\Repository.csproj"
             }
           }
         }
@@ -669,7 +662,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

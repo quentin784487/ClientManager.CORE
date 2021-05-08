@@ -2,10 +2,6 @@
 using Common.Shared;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
-using System.IO;
-using System.Net;
-using System.Net.Http;
-using System.Net.Http.Headers;
 
 namespace Web.API.Controllers
 {
@@ -14,14 +10,10 @@ namespace Web.API.Controllers
     public class ClientsController : ControllerBase
     {
         private readonly IClients _clients;
-        private readonly IAddressInformation _addressInformation;
-        private readonly IContactInformation _contactInformation;
 
-        public ClientsController(IClients clients, IAddressInformation addressInformation, IContactInformation contactInformation)
+        public ClientsController(IClients clients)
         {
             _clients = clients;
-            _addressInformation = addressInformation;
-            _contactInformation = contactInformation;
         }
 
         [HttpGet("[action]")]
@@ -65,69 +57,8 @@ namespace Web.API.Controllers
         {
             byte[] bytes = _clients.ExportClients();
             var result = new FileContentResult(bytes, "application/octet-stream");
-            result.FileDownloadName = "my-csv-file.csv";
+            result.FileDownloadName = "clients.csv";
             return result;
-
-        }
-
-        //#######################################################################################
-
-        [HttpGet("[action]")]
-        [Route("Clients/GetAddressInformation")]
-        public List<AddressInformationDTO> GetAddressInformation(long id)
-        {
-            return _addressInformation.GetAddressInformation(id);
-        }
-
-        [HttpPost("[action]")]
-        [Route("Clients/AddAddressInformation")]
-        public long AddAddressInformation(AddressInformationDTO model)
-        {
-            return _addressInformation.AddAddressInformation(model);
-        }
-
-        [HttpPost("[action]")]
-        [Route("Clients/EditAddressInformation")]
-        public void EditAddressInformation(AddressInformationDTO model)
-        {
-            _addressInformation.EditAddressInformation(model);
-        }
-
-        [HttpPost("[action]")]
-        [Route("Clients/DeleteAddressInformation")]
-        public void DeleteAddressInformation(AddressInformationDTO model)
-        {
-            _addressInformation.DeleteAddressInformation(model);
-        }
-
-        //#######################################################################################
-
-        [HttpGet("[action]")]
-        [Route("Clients/GetContactInformation")]
-        public List<ContactInformationDTO> GetContactInformation(long id)
-        {
-            return _contactInformation.GetContactInformation(id);
-        }
-
-        [HttpPost("[action]")]
-        [Route("Clients/AddContactInformation")]
-        public long AddContactInformation(ContactInformationDTO model)
-        {
-            return _contactInformation.AddContactInformation(model);
-        }
-
-        [HttpPost("[action]")]
-        [Route("Clients/EditContactInformation")]
-        public void EditContactInformation(ContactInformationDTO model)
-        {
-            _contactInformation.EditContactInformation(model);
-        }
-
-        [HttpPost("[action]")]
-        [Route("Clients/DeleteContactInformation")]
-        public void DeleteContactInformation(ContactInformationDTO model)
-        {
-            _contactInformation.DeleteContactInformation(model);
         }
     }
 }

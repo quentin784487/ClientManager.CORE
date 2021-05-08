@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pmbrpkX3tK7I9eVNZ5YRDboI+CEq/tW+0Q0EXR3hQGk+DG07BXh1TorNqub8O+ZcaT5gzhqYyy64z6xnIwTMFQ==",
+  "dgSpecHash": "kT2ULEH2weqD6+9MuGAbSctH/Vjnzj1sV951y/zrocS40w1AtZjsplZ8Lseo6va6s4AAfkpquoBt/MAbdjzTbQ==",
   "success": true,
-  "projectFilePath": "D:\\_repo\\ClientManager\\Common\\Common.Shared.csproj",
+  "projectFilePath": "C:\\_systems\\ClientManager\\ClientManager.CORE\\Common\\Common.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

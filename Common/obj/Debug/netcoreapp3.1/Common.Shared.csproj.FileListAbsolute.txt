@@ -16,3 +16,12 @@ C:\_systems\ClientManager\Common\obj\Debug\netcoreapp3.1\Common.Shared.AssemblyI
 C:\_systems\ClientManager\Common\obj\Debug\netcoreapp3.1\Common.Shared.AssemblyInfo.cs
 C:\_systems\ClientManager\Common\obj\Debug\netcoreapp3.1\Common.Shared.dll
 C:\_systems\ClientManager\Common\obj\Debug\netcoreapp3.1\Common.Shared.pdb
+C:\_systems\ClientManager\ClientManager.CORE\Common\bin\Debug\netcoreapp3.1\Common.Shared.deps.json
+C:\_systems\ClientManager\ClientManager.CORE\Common\bin\Debug\netcoreapp3.1\Common.Shared.dll
+C:\_systems\ClientManager\ClientManager.CORE\Common\bin\Debug\netcoreapp3.1\Common.Shared.pdb
+C:\_systems\ClientManager\ClientManager.CORE\Common\obj\Debug\netcoreapp3.1\Common.Shared.csprojAssemblyReference.cache
+C:\_systems\ClientManager\ClientManager.CORE\Common\obj\Debug\netcoreapp3.1\Common.Shared.csproj.CoreCompileInputs.cache
+C:\_systems\ClientManager\ClientManager.CORE\Common\obj\Debug\netcoreapp3.1\Common.Shared.AssemblyInfoInputs.cache
+C:\_systems\ClientManager\ClientManager.CORE\Common\obj\Debug\netcoreapp3.1\Common.Shared.AssemblyInfo.cs
+C:\_systems\ClientManager\ClientManager.CORE\Common\obj\Debug\netcoreapp3.1\Common.Shared.dll
+C:\_systems\ClientManager\ClientManager.CORE\Common\obj\Debug\netcoreapp3.1\Common.Shared.pdb

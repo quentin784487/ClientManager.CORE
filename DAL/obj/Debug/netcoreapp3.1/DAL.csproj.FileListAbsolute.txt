@@ -25,3 +25,12 @@ C:\_systems\ClientManager\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
 C:\_systems\ClientManager\DAL\obj\Debug\netcoreapp3.1\DAL.dll
 C:\_systems\ClientManager\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
 D:\_repo\ClientManager\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\_systems\ClientManager\ClientManager.CORE\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\_systems\ClientManager\ClientManager.CORE\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\_systems\ClientManager\ClientManager.CORE\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\_systems\ClientManager\ClientManager.CORE\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\_systems\ClientManager\ClientManager.CORE\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\_systems\ClientManager\ClientManager.CORE\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\_systems\ClientManager\ClientManager.CORE\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\_systems\ClientManager\ClientManager.CORE\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\_systems\ClientManager\ClientManager.CORE\DAL\obj\Debug\netcoreapp3.1\DAL.pdb

@@ -38,3 +38,17 @@ D:\_repo\ClientManager\Repository\bin\Debug\netcoreapp3.1\Common.Shared.dll
 D:\_repo\ClientManager\Repository\bin\Debug\netcoreapp3.1\Common.Shared.pdb
 C:\_systems\ClientManager\Repository\bin\Debug\netcoreapp3.1\Common.Shared.dll
 C:\_systems\ClientManager\Repository\bin\Debug\netcoreapp3.1\Common.Shared.pdb
+C:\_systems\ClientManager\ClientManager.CORE\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\_systems\ClientManager\ClientManager.CORE\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\_systems\ClientManager\ClientManager.CORE\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\_systems\ClientManager\ClientManager.CORE\Repository\bin\Debug\netcoreapp3.1\Common.Shared.dll
+C:\_systems\ClientManager\ClientManager.CORE\Repository\bin\Debug\netcoreapp3.1\DAL.dll
+C:\_systems\ClientManager\ClientManager.CORE\Repository\bin\Debug\netcoreapp3.1\Common.Shared.pdb
+C:\_systems\ClientManager\ClientManager.CORE\Repository\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\_systems\ClientManager\ClientManager.CORE\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\_systems\ClientManager\ClientManager.CORE\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\_systems\ClientManager\ClientManager.CORE\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\_systems\ClientManager\ClientManager.CORE\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\_systems\ClientManager\ClientManager.CORE\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\_systems\ClientManager\ClientManager.CORE\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\_systems\ClientManager\ClientManager.CORE\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
