@@ -1,7 +1,6 @@
 ﻿using BLL.Contracts;
 using Common.Shared;
 using Microsoft.AspNetCore.Mvc;
-using System.Collections.Generic;
 
 namespace Web.API.Controllers
 {
